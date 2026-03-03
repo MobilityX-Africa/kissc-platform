@@ -59,7 +59,7 @@ export function AppSidebar() {
     <Sidebar>
       <SidebarHeader>
         <div className="flex items-center gap-2 px-2 py-2">
-          <MobilityXLogo size={32} className="text-[#5B4B8A]" />
+          <MobilityXLogo size={36} />
           <div className="flex flex-col">
             <span className="text-sm font-bold">{APP_NAME}</span>
             <span className="text-xs text-muted-foreground">
